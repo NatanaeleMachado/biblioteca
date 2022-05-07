@@ -5,7 +5,7 @@
     <html>
 
     <head>
-    <title>Empréstimos</title>
+    <title>Empréstimos Tais</title>
     <link rel="stylesheet" type="text/css" href="estilo.css" />
     </head>
 
