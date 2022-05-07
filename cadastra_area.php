@@ -5,7 +5,7 @@
     <html>
 
     <head>
-    <title>Natanaele Sistema Empréstimo Livros</title>
+    <title>Empréstimos</title>
     <link rel="stylesheet" type="text/css" href="estilo.css" />
     </head>
 
