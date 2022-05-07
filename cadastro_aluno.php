@@ -1,7 +1,7 @@
 <html>
 	<head>
 		
-		<title>Sistema Empréstimo Livros</title>
+		<title>Tais</title>
 		<link rel="stylesheet" href="estilo.css">
 	</head>
 
