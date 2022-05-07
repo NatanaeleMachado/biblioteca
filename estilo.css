@@ -7,7 +7,7 @@ body {
 
 /* titulo biblioteca */
 h3 {
-	background: #FFA500;
+	background: black;
 	padding: 20px;
 	color: white;
 	display: flex;
@@ -19,7 +19,7 @@ h3 {
 
 /* subtitulos*/
 h4 {
-	background: #FFA500;
+	background: black;
 	padding: 20px;
 	color: white;
 	display: flex;
